@@ -12,6 +12,9 @@
     <li>Visual Studio Code 2022</li>
 </ul>
 <br/>
-![garden](garden.jpg)
+
+![garden](photo-garden.jpg)
+
 <br/>
+
 ###"Remember the Gardens"
