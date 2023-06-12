@@ -1,0 +1,85 @@
+body{
+	background-color:lightblue ;
+}
+
+#container
+{
+	width:1200px;
+	margin-left:auto;
+	margin-right:auto;	
+	padding:20px;
+}
+
+#logo
+{
+	text-align:center;
+	color:green;
+	padding:10px;
+}
+
+#description
+{
+	width:700px;
+	padding-bottom:20px;
+	margin:auto;
+	text-align:center ;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+a.text
+{
+	text-indent: 10%;
+}
+
+#hortensja
+{
+	text-align:center;
+	float:left;
+	padding-left:72px;
+	padding-right:25px;		
+}
+
+#szałwia
+{
+	text-align:center;
+	float:left;
+	padding-left:25px;
+	padding-right:25px;
+}	
+
+#astry
+{
+	text-align:center;
+	float:left;
+	padding-left:25px;
+	padding-right:72px;
+	
+
+}	
+
+#footer
+{
+	text-align:center;
+	padding-top:40px;
+	clear:both;	
+}
+
+a.flower
+{
+	color:darkgreen;
+	text-decoration-line: none;
+	font-family: 'Josefin Sans', sans-serif;
+	
+}
+#slider
+{
+	text-align:center;
+}
+#span
+{
+	text-align: center;
+	height: 25px;
+}
+
+
+
